@@ -33,3 +33,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 
 https://www.w3schools.com/jsrEF/default.asp
+
+https://stackoverflow.com/questions/72541637/how-to-slice-the-name-in-the-array-of-objects-discluding-the-names-without-t1
