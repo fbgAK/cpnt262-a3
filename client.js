@@ -23,7 +23,7 @@ document.getElementById('pop').innerHTML = 'Pop:' + Names + '<br>';
 // Result: [Peach,Bowser]
 
 // .slice(): selects part of array
-const slicedNames = Names.slice(3, 4);
+Names.slice(3, 4);
 document.getElementById('slice').innerHTML = 'slice:' + Names + '<br>';
 // Result: [Peach,Bowser]
 
