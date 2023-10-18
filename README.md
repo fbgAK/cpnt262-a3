@@ -6,7 +6,7 @@ Akash Samra
 
 - *Array methods* 
 
--concat
+-slice
 -push
 -pop
 
@@ -18,7 +18,7 @@ Akash Samra
 ## Use Cases
 
 
-1. **.concat()**: Appends a string to the end of another string
+1. **.slice()** extracts a part of a string
 2. **.push()**: adds an item to a list or cart.
 3. **.pop()**: extracts an item from the end
 4. **Object.keys()**: returns an array of a given object's own string-keyed property names.
@@ -35,3 +35,5 @@ https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 https://www.w3schools.com/jsrEF/default.asp
 
 https://stackoverflow.com/questions/72541637/how-to-slice-the-name-in-the-array-of-objects-discluding-the-names-without-t1
+
+https://www.w3schools.com/jsref/jsref_slice_string.asp
